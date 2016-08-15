@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="content post container">
+	<h1 class="post-title">{{ page.title }}</h1>
+	<div class="post-date">
+		<time>
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}
+            de
+            {% case m %}
+              {% when '1' %}Janeiro
+              {% when '2' %}Feverieo
+              {% when '3' %}Março
+              {% when '4' %}Abril
+              {% when '5' %}Maio
+              {% when '6' %}Junho
+              {% when '7' %}Julho
+              {% when '8' %}Agosto
+              {% when '9' %}Setembro
+              {% when '10' %}Outubro
+              {% when '11' %}Novembro
+              {% when '12' %}Dezembro
+            {% endcase %}
+            de
+            {{ page.date | date: "%Y" }}
+        </time>
+	</div>
+	{{ content }}
+</div>
+{% include share.html %}
+
+{% include about_footer.html %}
+
+{% if jekyll.environment == "production" %}
+	{% include disqus.html %}
+{% endif %}

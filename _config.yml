@@ -1,0 +1,48 @@
+# User Settings | Edit these according to your site
+
+title: Seu Julinho
+email: Seu-Julinho@email.com
+author: Seu Julinho
+
+description: > # this means to ignore newlines until "baseurl:"
+  Julio Calasso é um brasileiro. Brasileiro e cineasta. Idealiza e produz filmes. Tem como principal atividade o sonho.
+
+permalink:          /:year/:title.html
+
+paginate: 5
+paginate_path: "/page/:num"
+comments: true
+
+heading_font: Lobster 
+about_footer: true
+short_bio: >
+    Deixa a menina em paz Zuleica!
+profile_picture: http://img3.rnkr-static.com/list_img/11570/111570/C300/movies-and-films-directed-by-charlie-chaplin-u4.jpg
+
+google_analytics: false
+tracking_id: UA-69243698-5
+
+# Build settings | Do not edit anything below this
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+
+sass:
+  style:            compressed
+  sass_dir:         _sass
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
