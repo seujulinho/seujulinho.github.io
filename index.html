@@ -4,10 +4,10 @@ layout: default
 
 <section class="intro">
   
-
  <div class="content about-container">
-    <img class="profile-picture" src="{{ site.profile_picture }}">
-    </img>
+    <a href="/about">
+        <img class="profile-picture" src="{{ site.profile_picture }}"></img>
+    </a>
     <p>{{  site.description  }}</p>
 </div>
   
@@ -19,36 +19,31 @@ layout: default
     <ul>
       {% for post in paginator.posts %}
         <article class="post-item">
-
           <span class="post-time">
-            
-        <time>
-            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }}
-            de
-            {% case m %}
-              {% when '1' %}Janeiro
-              {% when '2' %}Feverieo
-              {% when '3' %}Março
-              {% when '4' %}Abril
-              {% when '5' %}Maio
-              {% when '6' %}Junho
-              {% when '7' %}Julho
-              {% when '8' %}Agosto
-              {% when '9' %}Setembro
-              {% when '10' %}Outubro
-              {% when '11' %}Novembro
-              {% when '12' %}Dezembro
-            {% endcase %}
-            ,
-            {{ post.date | date: "%Y" }}
-            <strong> - </strong>
-        </time>
-
+            <time>
+                {% assign m = post.date | date: "%-m" %}
+                {{ post.date | date: "%-d" }}
+                de
+                {% case m %}
+                  {% when '1' %}Janeiro
+                  {% when '2' %}Feverieo
+                  {% when '3' %}Março
+                  {% when '4' %}Abril
+                  {% when '5' %}Maio
+                  {% when '6' %}Junho
+                  {% when '7' %}Julho
+                  {% when '8' %}Agosto
+                  {% when '9' %}Setembro
+                  {% when '10' %}Outubro
+                  {% when '11' %}Novembro
+                  {% when '12' %}Dezembro
+                {% endcase %}
+                ,
+                {{ post.date | date: "%Y" }}
+            </time>
          </span>
           <span class="post-name">
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              <strong> - </strong>
           </span>
           <p class="post-stub">{{ post.content | strip_html | truncatewords: 40 }}</p>
           <a href="{{ post.url | prepend: site.baseurl}}"> Ler mais </a>

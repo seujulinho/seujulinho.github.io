@@ -90,14 +90,15 @@ p {
 	font-style: italic;
 	color: $git-black-color;
 	font-weight: lighter;
-	display: inline;
+	display: block;
+	font-size: $small-font-size;
 	@media (max-width: $break-small) {
 		display: block;
 	}
 }
 .post-name {
-	font-size: $base-font-size / 1.1;
-	display: inline;
+	font-size: $big-font-size;
+	display: block;
 	@media (max-width: $break-small) {
 		display: block;
 	}
@@ -110,7 +111,7 @@ p {
 .post-item {
 	margin-bottom: 0;
 	padding: $base-spacing;
-	background-color: $well-color;
+	//background-color: $well-color;
 }
 
 .post-list {
@@ -170,7 +171,7 @@ p {
 .nav {
 	min-height: 64px;
 	border-bottom: thin solid $well-color;
-	background-color: $well-color;
+	//background-color: $well-color;
 }
 
 .navlist {
@@ -198,7 +199,7 @@ p {
 }
 
 footer {
-	background-color: $well-color;
+	//background-color: $well-color;
 	box-shadow: 0px 500px 0px 500px $well-color;
 	color: $git-black-color;
 	.container p {
@@ -259,11 +260,11 @@ footer {
 
 .share-section {
 	overflow: hidden;
-	background-color: $well-color;
+	//background-color: $well-color;
 }
 
 .about-footer {
-	background-color: $well-color;  
+	//background-color: $well-color;  
 }
 .about-footer-div {
 	text-align: center;

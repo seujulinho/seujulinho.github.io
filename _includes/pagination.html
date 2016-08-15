@@ -9,7 +9,7 @@
             <a class="prev" href="{{ url | append: prev }}" title="Articles new"><i class="icon-left-open"></i> Anterior</a>
         </div>
     {% else %}
-        <div class="alignable pull-left"><span class="prev disabled"><i class="icon-left-open"></i> Anterior</span></div>
+        <div class="alignable pull-left"><span class="prev disabled">&nbsp;</div>
     {% endif %}
     <div class="alignable pull-left text-center">
         <span>Página {{paginator.page}} de {{paginator.total_pages}}</span>
@@ -19,7 +19,7 @@
             <a class="next" href="{{ url | append: 'page/' | append: paginator.next_page }}" title="Articles old">Próxima <i class="icon-right-open"></i></a>
         </div>
     {% else %}
-        <div class="alignable pull-left text-right"><span class="next disabled">Próxima <i class="icon-right-open"></i></span></div>
+        <div class="alignable pull-left text-right">&nbsp;</div>
     {% endif %}
 </div>
 {% endif %}
