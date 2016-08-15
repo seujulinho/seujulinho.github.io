@@ -132,9 +132,13 @@ p {
 .intro {
 	background-color: $git-black-color;
 	margin-bottom: 0px;
+    background: url(../wallpaper.jpg);
+    background-position: 0px -100px;
+    padding-top: 150px;
 	p {
 		font-size: 25px;
-		font-weight: lighter;
+		font-weight: normal;
+	    text-shadow: 1px 1px black;
 	}
 	span {
 		background-color: $white-color;
