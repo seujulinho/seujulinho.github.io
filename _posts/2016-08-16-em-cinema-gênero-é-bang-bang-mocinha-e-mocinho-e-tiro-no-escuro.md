@@ -7,7 +7,7 @@ Como a maior parte dos cineastas brasileiros mulheres e homens de todos os sexos
 
 Vale pra macho alfa, viado, gay, trans, mulher, lesbianas figuras, senhoras e senhores com tatuagem, bengala ou sem piercing.
 
-Dificuldades/ barreiras/ imposições/ traições/ preconceito/ inveja/ ganância/ é tudo como aquele garçom do Angeli não tem sexo. 
+Dificuldades / barreiras / imposições / traições / preconceito / inveja / ganância é tudo como aquele garçom do Angeli não tem sexo. 
 
 O divisor do busílis é quem tem e quem não tem o acesso às fontes de grana. 
 
