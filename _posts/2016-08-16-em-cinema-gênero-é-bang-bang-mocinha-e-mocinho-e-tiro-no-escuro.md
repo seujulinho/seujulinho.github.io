@@ -1,6 +1,9 @@
 ---
 ---
 
+
+![Large example image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Warner_Brothers_television_westerns_stars_1959.JPG/400px-Warner_Brothers_television_westerns_stars_1959.JPG)
+
 O Walter Rogério tem um curta fantástico: um cineasta espera, espera e espera o resultado de uma premiação; aluguel já era, mulher e filho caminho da roça, fome, despejo, desterro, demolição, só a plaquinha com o número da casa num pedaço de muro, a caixa de correio no chão e quando resta mais nada nem ninguém  o carteiro traz a notificação do prêmio. 
 
 Como a maior parte dos cineastas brasileiros mulheres e homens de todos os sexos e gêneros vi & vivemos na carne a humilhação de percorrer as listas de premiação e nada no teu nome. 

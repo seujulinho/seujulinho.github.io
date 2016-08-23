@@ -1,6 +1,8 @@
 ---
 ---
 
+![](http://condor.depaul.edu/dtudor/1872-muybridge-motion-studi.jpg)
+
 Daí surgiu a geração do cinema novo do cinema experimental criador inventivo uma cinematografia de inestimável valor e competência reconhecida e premiada mundo a fora. 
 
 Com o tempo a Embrafilme se transformou na única gestora deste e de outros fundos. 

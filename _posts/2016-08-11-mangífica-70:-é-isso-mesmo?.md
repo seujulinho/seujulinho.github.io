@@ -1,6 +1,8 @@
 ---
 ---
 
+![](http://www.ultracurioso.com.br/wp-content/uploads/2015/11/main.jpg)
+
 Visão perfeita dos novos tempos do cinema, aliás, audiovisual brasileiro a refletir preconceituosamente sobre um modo de produção que já ultrapassou 50 anos de vida. 
 
 Forjou uma ética, uma estética e uma linguagem inventiva, única e verdadeira, tão incrivelmente atual que tudo parece que foi gerado, gestado e produzido ontem à noite.
