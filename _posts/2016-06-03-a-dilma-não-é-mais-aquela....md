@@ -1,7 +1,7 @@
 ---
 ---
 
-Jovem que deu tudo de si como milhares de nós mesmos a própria vida fazia parte no meio daquela ditadura fiespiana/militar/acobertada pela mesma imprensa carimbo do que já tinha sido com Getúlio, Kubischeck, Jango e é agora desde que o Velho Lula chegou lá, nós. 
+... jovem que deu tudo de si como milhares de nós mesmos a própria vida fazia parte no meio daquela ditadura fiespiana/militar/acobertada pela mesma imprensa carimbo do que já tinha sido com Getúlio, Kubischeck, Jango e é agora desde que o Velho Lula chegou lá, nós. 
 
 A Dilma não é mais aquela jovem empolgada com o planejamento e execução de obras por tudo que é canto, nacionalista/pedetista/brizolista, apenas. 
 
