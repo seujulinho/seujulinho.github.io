@@ -1,0 +1,17 @@
+<div class="content post container">
+  {% if page.previous.url %} 
+    <p>
+      <a class="prev" href="{{page.previous.url}}">
+          <i class="icon-left-open"></i> {{page.previous.title}}
+      </a> 
+    </p>
+  {% endif %} 
+  
+  {% if page.next.url %} 
+    <p>
+      <a class="next" href="{{page.next.url}}">
+          <i class="icon-right-open"></i> {{page.next.title}} 
+      </a> 
+    </p>
+  {% endif %} 
+</div>
